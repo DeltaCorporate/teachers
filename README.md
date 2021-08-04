@@ -28,6 +28,7 @@ Assurez vous d'avoir les élèments suivants:
 - Tapez maintenant la commande ``ipconfig`` afin de récupérer votre addresse ipv4 (essentielle)
 - Modifiez le fichier .env avec les bonnes informations de la base de données
 - Tapez ensuite les commandes suivantes 
+
 ``composer install``
 
 ``php bin/console doctrine:database:create``
