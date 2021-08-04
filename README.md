@@ -29,7 +29,9 @@ Assurez vous d'avoir les élèments suivants:
 - Modifiez le fichier .env avec les bonnes informations de la base de données
 - Tapez ensuite les commandes suivantes 
 ``composer install``
+
 ``php bin/console doctrine:database:create``
+
 ``php -S IPV4:8000 -t public`` (n'utilisez surtout pas la commande `symfony serve` car elle fera tourner votre api sur le localhost)
 - Retournez ensuite dans le dossier principal
 ``cd ..``
