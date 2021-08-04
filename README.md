@@ -33,6 +33,10 @@ Assurez vous d'avoir les élèments suivants:
 
 ``php bin/console doctrine:database:create``
 
+``php bin/console make:migration``
+
+``php bin/console doctrine:migrations:migrate``
+
 ``php -S IPV4:8000 -t public`` (n'utilisez surtout pas la commande `symfony serve` car elle fera tourner votre api sur le localhost)
 - Retournez ensuite dans le dossier principal
 ``cd ..``
