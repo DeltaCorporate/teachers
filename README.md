@@ -3,6 +3,8 @@ Cette application est développé sur la base de :
 - React native pour le front end
 - Symfony pour le backend.
 
+Cette application permet de mettre en relation des professeurs à des étudiants. Ce n'est bien sûr qu'une ébauche mais déjà capable de gérer quelques actions.
+
 # Installation
 
 ###Prérequis
@@ -21,7 +23,7 @@ Assurez vous d'avoir les élèments suivants:
 
 ``cd teachers``
 
-### Il vous faut d'abord lancer l'api. Pour ce la vous devez vous rendre dans le dossier `api/`
+### Il vous faut d'abord lancer l'api. Pour cela vous devez vous rendre dans le dossier `api/`
 
 - Tapez maintenant la commande ``ipconfig`` afin de récupérer votre addresse ipv4 (essentielle)
 - Modifiez le fichier .env avec les bonnes informations de la base de données
