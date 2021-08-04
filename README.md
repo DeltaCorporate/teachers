@@ -7,7 +7,7 @@ Cette application permet de mettre en relation des professeurs à des étudiants
 
 # Installation
 
-###Prérequis
+### Prérequis
 Assurez vous d'avoir les élèments suivants:
 - Un serveur mysql version 5.7
 - Un serveur nodeJs
